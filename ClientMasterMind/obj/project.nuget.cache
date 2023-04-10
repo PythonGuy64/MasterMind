@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OS0OtuzaOMqVDEDfC97b/sJA2sx+zwlNN1U/0S77cU2mHco2EUvfDvMoKKhi4MC3kmkY4hrQTqP3xOMRVYZ7hg==",
+  "success": true,
+  "projectFilePath": "F:\\Programmation\\Prog_client_serveur\\ProjetFinal_Marc_Andre_Patry_1726476\\ProjetFinal\\ClientMasterMind\\ClientMasterMind.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\client\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
